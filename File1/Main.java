@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello how are you?");
         Scanner input = new Scanner(System.in);
         System.out.println(input.next());
+        // This is a code
 
 
     }
